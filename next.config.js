@@ -5,6 +5,8 @@ const nextConfig = {
     domains: ['static.platzi.com'],
     unoptimized: true,
   },
+  basePath: '/cristian-alejandro',
+  assetPrefix: '/cristian-alejandro'
 }
 
 module.exports = nextConfig
