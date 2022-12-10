@@ -3,6 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   images: {
     domains: ['static.platzi.com'],
+    unoptimized: true,
   },
 }
 
